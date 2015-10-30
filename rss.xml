@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[North America Chinese Weekly Beta]]></title>
         <description><![CDATA[North America Chinese Weekly Beta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/north-america-chinese-weekly-beta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 17:17:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 17:24:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/north-america-chinese-weekly-beta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xlt1/v/t1.0-9/480545_301957879897359_2143457427_n.jpg?oh=a1ce16d2ef99d95dbb9497e637f1740b&oe=56B97920">]]></description>
+            <link>https://thegrid.ai/north-america-chinese-weekly-beta/39e77736-bd20-4996-bfb0-8f1a5cb633d8/index.html</link>
+            <guid isPermaLink="false">39e77736-bd20-4996-bfb0-8f1a5cb633d8</guid>
+            <pubDate>Fri, 30 Oct 2015 17:23:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-ord1-1.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/12065947_950724481687359_2967491080299322102_n.jpg?oh=699203f613bfc1951848b54e69cc2780&oe=56CC62A7">]]></description>
-            <link>undefinede5ed8455-183d-43f3-8bf6-608a50d34925/index.html</link>
+            <link>https://thegrid.ai/north-america-chinese-weekly-beta/e5ed8455-183d-43f3-8bf6-608a50d34925/index.html</link>
             <guid isPermaLink="false">e5ed8455-183d-43f3-8bf6-608a50d34925</guid>
             <pubDate>Fri, 30 Oct 2015 17:17:07 GMT</pubDate>
         </item>
