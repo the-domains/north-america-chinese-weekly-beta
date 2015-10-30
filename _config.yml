@@ -1,6 +1,6 @@
 name: North America Chinese Weekly Beta
 favicon: null
-layout_spectrum: 0.51464
+layout_spectrum: 0.70252
 typography_spectrum: 0.37618040293455124
 title: 北美華人
 cta:
@@ -23,7 +23,7 @@ color:
     - '#5e5e5e'
     - '#d1d1d1'
   brandStrength: 0.645453188335523
-  lightness: 0.7144704868551344
-  saturation: 0.14304790226742625
+  lightness: 0.5
+  saturation: 0.4375
   rhythmicContrast: 0.6849320416804403
 purpose: []
