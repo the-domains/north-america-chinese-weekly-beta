@@ -1,0 +1,23 @@
+name: North America Chinese Weekly Beta
+favicon: null
+layout_spectrum: 0.8465059420559555
+typography_spectrum: 0.37618040293455124
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.645453188335523
+  lightness: 0.7144704868551344
+  saturation: 0.14304790226742625
+  rhythmicContrast: 0.6849320416804403
+purpose: []
